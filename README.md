@@ -1,2 +1,2 @@
 # Firebase With Lumen API Intagration Example
-**Lumen Firebase With Roles** demonstrates how to connect **Firebase** into your **Laravel Lumen Backend** using **Roles** and customized **Middlewares**.
+**Firebase Lumen Roles** explains how to link **Firebase** to your **Laravel Lumen Backend**, validate **jwt tokens**, **renew**, and define **Custom User Claims**. **Roles** and customized **Middlewares** can also be used.
